@@ -1,4 +1,4 @@
-# commercetools project creator
+# commercetools project configuration
 
 ## Step-by-step guide
 
